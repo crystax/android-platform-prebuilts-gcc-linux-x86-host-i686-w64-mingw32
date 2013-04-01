@@ -1,4 +1,4 @@
-This file has been automatically generated on Mon Jan 28 20:57:22 MSK 2013 with the following command:
+This file has been automatically generated on Mon Apr  1 22:26:09 MSK 2013 with the following command:
 build-mingw64-toolchain.sh --target-arch=i686
 
 The MD5 hashes for the original sources packages are:
